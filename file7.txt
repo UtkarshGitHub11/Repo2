@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file7 on remote 
+=======
+this is file 7.txt
+>>>>>>> d12974d16a6dba1801045e698b097ce0d2410515
